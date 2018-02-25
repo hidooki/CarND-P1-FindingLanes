@@ -1,3 +1,3 @@
 # CarND-P1-FindingLanes
 
-This is the first project in the Udacity's [Self Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) "nanodegree". 
+This is the first project of Udacity's [Self Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) "nanodegree" program. It consisted in coding up a pipeline for detecting lane lines in a video, one frame at a time. A more detailed description of the steps in included in the writeup, while the code in contained in the Jupyter Notebook. The final output is the video output folder. 
